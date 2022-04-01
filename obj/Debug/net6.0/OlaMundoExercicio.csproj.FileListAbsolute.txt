@@ -1,0 +1,15 @@
+C:\Users\Platini\Desktop\OlaMundoExercicio\bin\Debug\net6.0\OlaMundoExercicio.exe
+C:\Users\Platini\Desktop\OlaMundoExercicio\bin\Debug\net6.0\OlaMundoExercicio.deps.json
+C:\Users\Platini\Desktop\OlaMundoExercicio\bin\Debug\net6.0\OlaMundoExercicio.runtimeconfig.json
+C:\Users\Platini\Desktop\OlaMundoExercicio\bin\Debug\net6.0\OlaMundoExercicio.dll
+C:\Users\Platini\Desktop\OlaMundoExercicio\bin\Debug\net6.0\OlaMundoExercicio.pdb
+C:\Users\Platini\Desktop\OlaMundoExercicio\obj\Debug\net6.0\OlaMundoExercicio.csproj.AssemblyReference.cache
+C:\Users\Platini\Desktop\OlaMundoExercicio\obj\Debug\net6.0\OlaMundoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Platini\Desktop\OlaMundoExercicio\obj\Debug\net6.0\OlaMundoExercicio.AssemblyInfoInputs.cache
+C:\Users\Platini\Desktop\OlaMundoExercicio\obj\Debug\net6.0\OlaMundoExercicio.AssemblyInfo.cs
+C:\Users\Platini\Desktop\OlaMundoExercicio\obj\Debug\net6.0\OlaMundoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Platini\Desktop\OlaMundoExercicio\obj\Debug\net6.0\OlaMundoExercicio.dll
+C:\Users\Platini\Desktop\OlaMundoExercicio\obj\Debug\net6.0\refint\OlaMundoExercicio.dll
+C:\Users\Platini\Desktop\OlaMundoExercicio\obj\Debug\net6.0\OlaMundoExercicio.pdb
+C:\Users\Platini\Desktop\OlaMundoExercicio\obj\Debug\net6.0\OlaMundoExercicio.genruntimeconfig.cache
+C:\Users\Platini\Desktop\OlaMundoExercicio\obj\Debug\net6.0\ref\OlaMundoExercicio.dll
